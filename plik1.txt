@@ -1,1 +1,3 @@
-to jest plik 1
+to jest plik 
+
+Lorem ipsum dolor sit amet
